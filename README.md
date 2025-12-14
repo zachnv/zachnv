@@ -1,6 +1,6 @@
 # Zach Vaughn
 
-🎓 Software Engineering Student @ Kennesaw State University  
+Software Engineering @ Kennesaw State University  
 
 ---
 
@@ -41,24 +41,12 @@ Currently pursuing a B.S. in Software Engineering (Expected Fall 2026)
 **B.S. in Software Engineering**  
 Kennesaw State University — *Expected Fall 2026*
 
-Relevant coursework:
-- *Data Structures*
-- *Discrete Structures*
-- *Computer Organization & Architecture*
-- *Software Architecture & Design*
-- *Software Systems Requirements*
-
 **A.S. in Computer Science**  
 Georgia Highlands College — *2022-2025*
-
-Relevant coursework:
-- *Networking*
-- *Database Systems*
-- *Programming & Problem Solving I and II*
 
 ---
 
 ## Contact
-📧 **zachnvb@gmail.com**  
-🔗 **https://github.com/zachnv**  
-💼 **www.linkedin.com/in/zach-vaughn-b488a2381**
+Email: **zachnvb@gmail.com**  
+GitHub: **https://github.com/zachnv**  
+LinkedIn: **www.linkedin.com/in/zach-vaughn-b488a2381**
