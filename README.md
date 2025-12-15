@@ -1,6 +1,6 @@
 # Zach Vaughn
 
-Software Engineering @ Kennesaw State University  
+Software Engineering Student @ Kennesaw State University  
 
 ---
 
@@ -25,16 +25,6 @@ Software Engineering @ Kennesaw State University
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-
----
-
-## Education
-
-**B.S. in Software Engineering**  
-Kennesaw State University — *Expected Fall 2026*
-
-**A.S. in Computer Science**  
-Georgia Highlands College — *2022-2025*
 
 ---
 
